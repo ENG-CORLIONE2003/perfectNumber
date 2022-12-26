@@ -1,0 +1,15 @@
+C:\Users\Mahmoud_walid\Desktop\perfectNumber\perfectNumber\perfectNumber\bin\Debug\net6.0\perfectNumber.exe
+C:\Users\Mahmoud_walid\Desktop\perfectNumber\perfectNumber\perfectNumber\bin\Debug\net6.0\perfectNumber.deps.json
+C:\Users\Mahmoud_walid\Desktop\perfectNumber\perfectNumber\perfectNumber\bin\Debug\net6.0\perfectNumber.runtimeconfig.json
+C:\Users\Mahmoud_walid\Desktop\perfectNumber\perfectNumber\perfectNumber\bin\Debug\net6.0\perfectNumber.dll
+C:\Users\Mahmoud_walid\Desktop\perfectNumber\perfectNumber\perfectNumber\bin\Debug\net6.0\perfectNumber.pdb
+C:\Users\Mahmoud_walid\Desktop\perfectNumber\perfectNumber\perfectNumber\obj\Debug\net6.0\perfectNumber.csproj.AssemblyReference.cache
+C:\Users\Mahmoud_walid\Desktop\perfectNumber\perfectNumber\perfectNumber\obj\Debug\net6.0\perfectNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud_walid\Desktop\perfectNumber\perfectNumber\perfectNumber\obj\Debug\net6.0\perfectNumber.AssemblyInfoInputs.cache
+C:\Users\Mahmoud_walid\Desktop\perfectNumber\perfectNumber\perfectNumber\obj\Debug\net6.0\perfectNumber.AssemblyInfo.cs
+C:\Users\Mahmoud_walid\Desktop\perfectNumber\perfectNumber\perfectNumber\obj\Debug\net6.0\perfectNumber.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud_walid\Desktop\perfectNumber\perfectNumber\perfectNumber\obj\Debug\net6.0\perfectNumber.dll
+C:\Users\Mahmoud_walid\Desktop\perfectNumber\perfectNumber\perfectNumber\obj\Debug\net6.0\refint\perfectNumber.dll
+C:\Users\Mahmoud_walid\Desktop\perfectNumber\perfectNumber\perfectNumber\obj\Debug\net6.0\perfectNumber.pdb
+C:\Users\Mahmoud_walid\Desktop\perfectNumber\perfectNumber\perfectNumber\obj\Debug\net6.0\perfectNumber.genruntimeconfig.cache
+C:\Users\Mahmoud_walid\Desktop\perfectNumber\perfectNumber\perfectNumber\obj\Debug\net6.0\ref\perfectNumber.dll
